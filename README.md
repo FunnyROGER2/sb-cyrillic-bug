@@ -1,4 +1,4 @@
-# ZettelRepro
+# Storybook 6.3 stopped supporting Cyrillic in title in stories
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
 
